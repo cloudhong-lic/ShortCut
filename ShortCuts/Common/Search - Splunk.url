@@ -2,5 +2,5 @@
 URL=http://splunk.lic.co.nz/en-US/app/search/search?q=search%20index%3D*_a%20xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-7d%40h&latest=now&sid=1473377078.37358.LICWPDSKHP1
 IDList=
 HotKey=0
-IconFile=E:\Utils\ShortCut\Icon\Splunk.ico
+IconFile=C:\Utils\ShortCut\Icon\Splunk.ico
 IconIndex=0

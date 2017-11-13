@@ -2,7 +2,7 @@
 URL=http://sts.test01.lic.co.nz/account/sign-in?wa=wsignin1.0&wtrealm=http%3a%2f%2fminda.TEST10.lic.co.nz&wctx=rm%3d1%26id%3dpassive%26ru%3d%252fservices%252faccount%252fsign-in%252f&wct=2016-01-18T20%3a35%3a56Z
 IDList=
 HotKey=0
-IconFile=E:\Utils\ShortCut\Icon\LIC.ico
+IconFile=C:\Utils\ShortCut\Icon\LIC.ico
 IconIndex=0
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
